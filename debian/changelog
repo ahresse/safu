@@ -1,5 +1,6 @@
-safu (0.0.1) unstable; urgency=medium
+safu (0.54.1-0ubuntu1~ppa1) oracular; urgency=medium
 
-  * Dummy release.
+  * Initial release (LP: #2069877).
+    Based on upstream debian.native directory.
 
- -- Isaac True <isaac.true@emlix.com>  Mon, 10 Jun 2024 16:53:43 +0200
+ -- Alexandre Esse <alexandre.esse@canonical.com>  Fri, 28 Jun 2024 10:26:11 +0200
