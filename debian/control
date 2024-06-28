@@ -9,6 +9,7 @@ Build-Depends:
  git,
  libcmocka-mocks-dev,
  pkgconf,
+Build-Depends-Indep:
  pandoc,
  pandoc-plantuml-filter,
  graphviz,
