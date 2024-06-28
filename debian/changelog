@@ -2,5 +2,11 @@ safu (0.54.1-0ubuntu1~ppa1) oracular; urgency=medium
 
   * Initial release (LP: #2069877).
     Based on upstream debian.native directory.
+  * debian: remove vcs fields from control file
+  * debian: fix Elektrobit copyright name
+  * debian: set safu section to libs
+  * debian: generating doc only for Indep
+  * debian: fix pkgconfig package name
+  * debian: update maintainer to Ubuntu Developers
 
  -- Alexandre Esse <alexandre.esse@canonical.com>  Fri, 28 Jun 2024 10:26:11 +0200
